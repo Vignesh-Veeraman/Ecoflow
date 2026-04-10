@@ -1,0 +1,1 @@
+select * from pipeline_catalog.pipeline_schema.bronze_customers_b1;
